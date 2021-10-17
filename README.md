@@ -1,5 +1,5 @@
-# **_Hey, I'm Jayant Singh_ 👋**
-<!-- **Developer** -->
+<h1 align="center"> Hey, I'm Jayant Singh 👋</h1>
+<h2 align="center">Developer</h2>
 
 <!-- <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/linkedin.png" height="25px"></a>
 <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/email.png" height="25px"></a> -->
@@ -9,9 +9,11 @@
 - 📫 _How to reach me:  [**LinkedIn**](https://www.linkedin.com/in/jayant-singh-475643156/) , [**jayant_s@ph.iitr.ac.in**](mailto:jayant_s@ph.iitr.ac.in) , [**jayantsingh331@gmail.com**](mailto:jayantsingh331@gmail.com)_
 - 😄 _Pronouns: He/His_
 - ⚡ _Fun fact:Plays BGMI even knowing hacker will kill me!_
-## _**Area of Interest/ Hobbies**_
+
+<h2 align="center">Area of Interest/ Hobbies</h2>
+
 - _**Web-Development**_
-- _**Coding**_
+-  _**Coding**_
 - _**Stock Market**_
 -  _Fundamental Analysis_
 - _Technical Analysis_
@@ -19,15 +21,18 @@
 - _Volleyball_
 - _Gaming_
 
-## _**Skills**_
+<h2 align="center">Skills</h2>
+
 - _**JAVASCRIPT**_
 - _**REACTJS**_
 - _**MYSQL**_
 - _**PHP**_
 - _**GIT VERSION CONTROL**_
 - _**C++**_
-## _**Internship Experience**_
+   <h2 align="center">Internship Experience</h2>
+
 _**Full-stack developer** at Prashnottar Pvt. Ltd.               (09-August-2021 to 09-October-2021)_
+
 - _Created user-friendly web pages._
 - _Accomplished registeration form(dual page)_
 - _Integrated **back-end** using **PHP** and **MYSQL** as database_.
