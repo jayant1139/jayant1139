@@ -1,16 +1,9 @@
-### Hi there 👋
+### Hey, I'm Jayant Singh 👋
 
-<!--
-**jayant1139/jayant1139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ReactJs
+- 💬 Ask me about Frontend/Full-stack development, Technical analysis, Fundamental analysis
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jayant-singh-475643156/) , [jayant_s@ph.iitr.ac.in](mailto:jayant_s@ph.iitr.ac.in) , [jayantsingh331@gmail.com](mailto:jayantsingh331@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact:Plays BGMI even knowing hacker will kill me!
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jayant-singh-475643156/), [Email at jayant_s@ph.iitr.ac.in](jayant_s@ph.iitr.ac.in)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
