@@ -42,6 +42,6 @@ _**Full-stack developer** at Prashnottar Pvt. Ltd.               (09-August-2021
 ## <img src="./Assets/html.svg" height="123px"> <img src="./Assets/cdnlogo.com_css.svg" height="100px"> <img src="./Assets/javascript.svg" height="100px"> <img src="./Assets/php.png" height="110px"> <img src="./Assets/MySQL-Logo.wine.svg" height="120px"> 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayant1139&theme=highcontrast)
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, radial -->
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayant1139&theme=highcontrast) -->
  
 
