@@ -17,7 +17,7 @@
 - _**Stock Market**_
 -  _Fundamental Analysis_
 - _Technical Analysis_
-- _**Singing**_
+- _Singing_
 - _Volleyball_
 - _Gaming_
 
