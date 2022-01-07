@@ -43,5 +43,6 @@ _**Full-stack developer** at Prashnottar Pvt. Ltd.               (09-August-2021
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayant1139&theme=highcontrast)
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, radial -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayant1139&theme=highcontrast) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayant1139&theme=great-gatsby)](https://git.io/streak-stats)
  
 
