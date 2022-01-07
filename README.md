@@ -1,13 +1,12 @@
 <h1 align="center"> Hey, I'm Jayant Singh 👋</h1>
 <h2 align="center">Developer</h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+Welcome+to+Jayant+Singh+Profile+👋)](https://git.io/typing-svg)
 
 <!-- <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/linkedin.png" height="25px"></a>
 <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/email.png" height="25px"></a> -->
 - <img src="./Assets/college.jpg" height="20px"> _Pre-final UG student of Indian Institute of Roorkee_
 - <img src="./Assets/reactjs.svg" width="20px"> _I’m currently learning **ReactJs**_
 - 💬 _Ask me about **Frontend/Full-stack development**, Technical analysis, Fundamental analysis_
-- 📫 _How to reach me:  [**LinkedIn**](https://www.linkedin.com/in/jayant-singh-475643156/) , [**jayant_s@ph.iitr.ac.in**](mailto:jayant_s@ph.iitr.ac.in) , [**jayantsingh331@gmail.com**](mailto:jayantsingh331@gmail.com)_
+- 📫 _How to reach me: [**Instagram**](https://www.instagram.com/jayant1139/) , [**LinkedIn**](https://www.linkedin.com/in/jayant-singh-475643156/) , [**jayant_s@ph.iitr.ac.in**](mailto:jayant_s@ph.iitr.ac.in) , [**jayantsingh331@gmail.com**](mailto:jayantsingh331@gmail.com)_
 - 😄 _Pronouns: He/His_
 - ⚡ _Fun fact:Plays BGMI even knowing hacker will kill me!_
 
@@ -41,10 +40,14 @@ _**Full-stack developer** at Prashnottar Pvt. Ltd.               (09-August-2021
 - _efficiently **deployed** & updated the code on **hostinger**._
 - _Technologies - **HTML, CSS, JAVASCRIPT, MYSQL, PHP**._
 ## <img src="./Assets/html.svg" height="123px"> <img src="./Assets/cdnlogo.com_css.svg" height="100px"> <img src="./Assets/javascript.svg" height="100px"> <img src="./Assets/php.png" height="110px"> <img src="./Assets/MySQL-Logo.wine.svg" height="120px"> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayant1139&theme=chartreuse-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayant1139&theme=chartreuse-dark) 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, radial -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayant1139&theme=highcontrast) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayant1139&theme=chartreuse-dark)](https://git.io/streak-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayant1139&theme=highcontrast) --> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayant1139&theme=chartreuse-dark)](https://git.io/streak-stats) 
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayant1139&theme=chartreuse-dark" />
+
 [![Jayant's github activity graph](https://activity-graph.herokuapp.com/graph?username=jayant1139&theme=chartreuse-dark)](https://github.com/jayant1139/github-readme-activity-graph)
- 
+
+
 
