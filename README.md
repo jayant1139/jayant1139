@@ -1,5 +1,6 @@
 <h1 align="center"> Hey, I'm Jayant Singh 👋</h1>
 <h2 align="center">Developer</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+Welcome+to+Jayant+Singh+Profile+👋)](https://git.io/typing-svg)
 
 <!-- <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/linkedin.png" height="25px"></a>
 <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/email.png" height="25px"></a> -->
