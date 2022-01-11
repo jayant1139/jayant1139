@@ -40,7 +40,7 @@ _**Full-stack developer** at Prashnottar Pvt. Ltd.               (09-August-2021
 - _efficiently **deployed** & updated the code on **hostinger**._
 - _Technologies - **HTML, CSS, JAVASCRIPT, MYSQL, PHP**._
 ## <img src="./Assets/html.svg" height="123px"> <img src="./Assets/cdnlogo.com_css.svg" height="100px"> <img src="./Assets/javascript.svg" height="100px"> <img src="./Assets/php.png" height="110px"> <img src="./Assets/MySQL-Logo.wine.svg" height="120px"> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayant1139&theme=chartreuse-dark) 
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayant1139&theme=chartreuse-dark)  -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, radial -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayant1139&theme=highcontrast) --> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayant1139&theme=chartreuse-dark)](https://git.io/streak-stats) 
