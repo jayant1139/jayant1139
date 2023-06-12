@@ -3,7 +3,7 @@
 
 <!-- <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/linkedin.png" height="25px"></a>
 <a href="https://www.linkedin.com/in/jayant-singh-475643156/"><img src="./Assets/email.png" height="25px"></a> -->
-- <img src="./Assets/college.jpg" height="20px"> _Pre-final UG student of Indian Institute of Roorkee_
+- <img src="./Assets/college.jpg" height="20px"> _Final UG student of Indian Institute of Roorkee_
 - <img src="./Assets/reactjs.svg" width="20px"> _I’m currently learning **ReactJs**_
 - 💬 _Ask me about **Frontend/Full-stack development**, Technical analysis, Fundamental analysis_
 - 📫 _How to reach me: [**Instagram**](https://www.instagram.com/jayant1139/) , [**LinkedIn**](https://www.linkedin.com/in/jayant-singh-475643156/) , [**jayant_s@ph.iitr.ac.in**](mailto:jayant_s@ph.iitr.ac.in) , [**jayantsingh331@gmail.com**](mailto:jayantsingh331@gmail.com)_
